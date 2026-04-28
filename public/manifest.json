@@ -1,0 +1,17 @@
+{
+  "name": "Servicio 26",
+  "short_name": "S26",
+  "description": "Gestión de Taller Automotriz",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "https://cossma.com.mx/servicio26.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
